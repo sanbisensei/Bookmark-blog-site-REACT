@@ -1,0 +1,53 @@
+[
+    {
+      "ID": 12345,
+      "Cover": "https://i.ibb.co/185Dbtz/1.jpg",
+      "Title": "Whispers of the Nebula",
+      "Author": "Emily Starlight",
+      "Author_Image": "https://i.postimg.cc/FzJQkfwZ/boy1.png",
+      "Posted_Date": "January 24, 2024",
+      "Reading_Time": 15,
+      "Hashtag": "#SpaceSaga #SciFiAdventure"
+    },
+    {
+      "ID": 67890,
+      "Cover": "https://i.ibb.co/2S1VWDg/2.jpg",
+      "Title": "Enchanted Realms",
+      "Author": "Alexander Mystique",
+      "Author_Image": "https://i.postimg.cc/FzJQkfwZ/boy1.png",
+      "Posted_Date": "January 25, 2024",
+      "Reading_Time": 20,
+      "Hashtag": "#FantasyWorld #MagicalAdventure"
+    },
+    {
+      "ID": 13579,
+      "Cover": "https://i.ibb.co/6ZBw0PW/3.jpg",
+      "Title": "Silent Echoes",
+      "Author": "Olivia Harmony",
+      "Author_Image": "https://i.postimg.cc/mhfWYLsG/boy2.jpg",
+      "Posted_Date": "January 26, 2024",
+      "Reading_Time": 18,
+      "Hashtag": "#MysteryThriller #Suspense"
+    },
+    {
+      "ID": 24680,
+      "Cover": "https://i.ibb.co/KqgvHTr/4.jpg",
+      "Title": "Chronicles of Technocity",
+      "Author": "Benjamin Byte",
+      "Author_Image": "https://i.postimg.cc/XNTrH9Nn/girl1.jpg",
+      "Posted_Date": "January 27, 2024",
+      "Reading_Time": 25,
+      "Hashtag": "#ScienceFiction #TechnologicalAdventure"
+    },
+    {
+      "ID": 98765,
+      "Cover": "https://i.ibb.co/9WsFf98/5.jpg",
+      "Title": "Ephemeral Dreams",
+      "Author": "Luna Serenade",
+      "Author_Image": "https://i.postimg.cc/44KKQWg8/girl2.jpg",
+      "Posted_Date": "January 28, 2024",
+      "Reading_Time": 34,
+      "Hashtag": "#Poetry #Dreamscape"
+    }
+  ]
+  
